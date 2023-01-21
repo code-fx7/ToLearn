@@ -1,4 +1,5 @@
-
+<!-- Kommentare, ===, Die Und Exit
+ -->
 <?php
     //Kommentar einzeilig
     #Kommentar einzeilig
