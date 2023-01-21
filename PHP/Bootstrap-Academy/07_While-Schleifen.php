@@ -1,6 +1,4 @@
-<!-- Die Do-While-Schleife
- -->    
-<?php
+   <?php
     $zahl = 1338;
     while($zahl < 1350) {
         echo $zahl;
