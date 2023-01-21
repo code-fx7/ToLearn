@@ -1,4 +1,5 @@
-<!-- break unterbricht den gesamten Schleifendurchlauf.
+<!-- Loopcontrol Mit Break Und Continue
+ --><!-- break unterbricht den gesamten Schleifendurchlauf.
 continue überspringt den definierten Wert. -->
 
 <?php

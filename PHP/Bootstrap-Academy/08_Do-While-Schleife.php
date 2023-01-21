@@ -1,3 +1,5 @@
+<!-- Die Do-While-Schleife
+ -->
 <?php
     $bedingung = true;
     $zahl = 1350;
