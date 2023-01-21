@@ -1,4 +1,6 @@
-<?php
+<!-- Das Switch-Case-Statement
+ -->
+ <?php
 $test_txt = "Muscheln";
 switch($test_txt) {
     case "Spaghetti";
