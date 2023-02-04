@@ -18,6 +18,9 @@ Ein Container-Image stellt einen Container bereit. Ein Container ist ein benutze
 Einfach ausgedrückt ist ein Container ein weiterer Prozess auf dem Computer, der von allen anderen Prozessen auf dem Host-Computer isoliert wurde.
 Da das Image das Dateisystem des Containers enthält, muss es alles enthalten, was zum Ausführen der Anwendung erforderlich ist – alle Abhängigkeiten, Konfigurationen, Skripte, Binärdateien usw.
 
+## 03.02.2023
+1. Einarbeitung in PHP [Slim Framework](https://www.slimframework.com)
+
 Fragen:
 - Migration?
 - was sind Kernel-Namespaces und Cgroups?
